@@ -4,5 +4,5 @@ Foi feito nas atividades a "conversão" do algoritmo escrito em linguagem Portug
 adequando a sintaxe, tipo de variáveis e instruções, como if, else e switch, à proposta apresentada.
 
 
-INTRODUÇÃO À PROGRAMAÇÃO - 500 ALGORITMOS RESOLVIDOS
+INTRODUÇÃO À PROGRAMAÇÃO - 500 ALGORITMOS RESOLVIDOS<br>
 ANITA LOPES ; GUTO GARCIA
